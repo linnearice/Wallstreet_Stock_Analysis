@@ -40,7 +40,6 @@ Note:  The number of stocks evaluated can be changed as mentioned by adding stoc
 5.	**Reduced Elapsed Time:**  The newly developed arrays also allowed DAI to implement ***more streamlined code*** that produced the same output in far fewer iterations.  DAI was then able to take out the nested loop statements and this produced a dramatic decrease in iterations.  Specifically, the ***refactored code*** for 12 stocks used 3,037 iterations while the ***original code*** used 36,156 iterations to produce the same data - a dramatic decrease indeed.  2017 and 2018 have the same number of total records so the reduced number of iterations was the same from year to year.  The result of implementing the ***refactored code*** with fewer iterations is:
 
 	a.	***2017 data run*** – the elapsed time refactored was 0.1640625 seconds compared to the original code at 0.882813 seconds.
-
 	b.	***2018 data run*** - the elapsed time refactored was 0.1470032 seconds compared to the original code at 0.960938 seconds 
 
 
@@ -51,9 +50,9 @@ DAI would like to point out; however, that one must be very careful in conductin
 
 The **advantages** of refactoring code may include:
 
-1.  As in Steve’s case, refactoring can reduce the elapsed time needed to run the code.  If you are dealing with 1,000’s of records with multiple data points this time savings can add up and become significant.
-2.	Time often equates to cost and your cost of running the data may be reduced.
-3.	The code is easier to read and understand which means any programmer can come back to it and more easily make needed changes as time goes by, etc.
+-  As in Steve’s case, refactoring can reduce the elapsed time needed to run the code.  If you are dealing with 1,000’s of records with multiple data points this time savings can add up and become significant.
+-	Time often equates to cost and your cost of running the data may be reduced.
+-	The code is easier to read and understand which means any programmer can come back to it and more easily make needed changes as time goes by, etc.
 
 The **disadvantages** of refactoring code may include:
 
