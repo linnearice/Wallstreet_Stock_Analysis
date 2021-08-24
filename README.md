@@ -8,7 +8,7 @@ DAI delivered our first draft analysis to Steve and after our follow-up meeting 
 ## Results
 To facilitate an improved (or ***“refactored”***) deliverable, DAI accomplished the following:
 1.	**Results:**
-![2017 and 2018 Screenshot for report](https://user-images.githubusercontent.com/35401581/130652060-5dc8e175-bf9f-4e55-b25e-e80dd955be46.png) 	 
+![2017 and 2018 Screenshot for report]("https://user-images.githubusercontent.com/35401581/130652060-5dc8e175-bf9f-4e55-b25e-e80dd955be46.png" width="200" height="200") 	 
 	The notes in the message boxes at bottom of the charts read:
 	-	2017 – The code ran in 0.1640625 seconds for the year 2017
 	-	2018 – The code ran in 0.1445313 seconds for the year 2018
