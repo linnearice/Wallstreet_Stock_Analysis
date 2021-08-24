@@ -35,7 +35,7 @@ Note:  The number of stocks evaluated can be changed as mentioned by adding stoc
             'calculates volume by tickerIndex
 	       tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8).Value  and so on…
 
-5.	**Reduced Elapsed Time:**  The newly developed arrays also allowed DAI to implement ***more streamlined code*** that produced the same output in far fewer iterations.  DAI was then able to take out the nested loop statements and this produced a dramatic decrease in iterations.  Specifically, the ***refactored code*** for 12 stocks used 3,037 iterations while the ***original code*** used 36,156 iterations to produce the same data - a dramatic decrease indeed.  2017 and 2018 have the same number of total records so the reduced number of iterations was the same from year to year.  The result of implementing the ***refactored code*** with fewer iterations is:
+5.	**Reduced Run Time:**  The newly developed arrays also allowed DAI to implement ***more streamlined code*** that produced the same output in far fewer iterations.  DAI was then able to take out the nested loop statements and this produced a dramatic decrease in iterations.  Specifically, the ***refactored code*** for 12 stocks used 3,037 iterations while the ***original code*** used 36,156 iterations to produce the same data - a dramatic decrease indeed.  2017 and 2018 have the same number of total records so the reduced number of iterations was the same from year to year.  The result of implementing the ***refactored code*** with fewer iterations is:
 
 	a.	***2017 data run*** – the elapsed time refactored was 0.1640625 seconds compared to the original code at 0.882813 seconds.
 	
