@@ -1,4 +1,3 @@
-# stock_analysis
 # VBA of Wallstreet
 ## Overview of Project
 Our company Data Analysts, Inc. (“DAI”) has worked with Steve, a Wall Street stockbroker, to deliver a tool Steve can use to analyze a large array of stocks.  Steve needs this information to advise his clients.  Steve has provided DAI the data points needed to properly analyze a stock.  It is DAI’s mission to incorporate all measurements into the analysis and to meet Steve’s expectations of accuracy and expedience.
