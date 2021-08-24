@@ -1,17 +1,17 @@
 # VBA of Wallstreet
 ## Overview of Project
 Our company Data Analysts, Inc. (“DAI”) has worked with Steve, a Wall Street stockbroker, to deliver a tool Steve can use to analyze a large array of stocks.  Steve needs this information to advise his clients.  Steve has provided DAI the data points needed to properly analyze a stock.  It is DAI’s mission to incorporate all measurements into the analysis and to meet Steve’s expectations of accuracy and expedience.
-###Improved Deliverable
+
+### Improved Deliverable
 DAI delivered our first draft analysis to Steve and after our follow-up meeting it was determined DAI needed to improve the analysis to incorporate the potential to analyze more stocks at one time and to do it faster.
 	 
- 
 ## Results
 To facilitate an improved (or ***“refactored”***) deliverable, DAI accomplished the following:
 1.	**Results:**
  	 
 	The notes in the message boxes at bottom of the charts read:
-	*2017 – The code ran in 0.1640625 seconds for the year 2017
-	*2018 – The code ran in 0.1445313 seconds for the year 2018
+	-	2017 – The code ran in 0.1640625 seconds for the year 2017
+	-	2018 – The code ran in 0.1445313 seconds for the year 2018
 	
 2.	**Calculation Accuracy:**  While the coding for the analysis was refactored for efficiency the calculation results for Total Daily Volume and Return remained the same which was the goal.
 3.	**Analysis:**  Steve is now able to provide his analysis.  In the charts above 2017 results showed 11 of the 12 stocks evaluated traded with favorable returns but many took a nosedive in 2018 where only 2 of the 12 stocks had favorable returns.  The stock DQ for example had a favorable return of 199.4% in 2017 but fell to a -62.6% return in 2018.  Since the majority of stocks in this portfolio declined sharply in 2018, perhaps an overall market downturn may be at play.   
