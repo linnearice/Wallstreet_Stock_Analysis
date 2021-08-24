@@ -40,6 +40,7 @@ Note:  The number of stocks evaluated can be changed as mentioned by adding stoc
 5.	**Reduced Elapsed Time:**  The newly developed arrays also allowed DAI to implement ***more streamlined code*** that produced the same output in far fewer iterations.  DAI was then able to take out the nested loop statements and this produced a dramatic decrease in iterations.  Specifically, the ***refactored code*** for 12 stocks used 3,037 iterations while the ***original code*** used 36,156 iterations to produce the same data - a dramatic decrease indeed.  2017 and 2018 have the same number of total records so the reduced number of iterations was the same from year to year.  The result of implementing the ***refactored code*** with fewer iterations is:
 
 	a.	***2017 data run*** – the elapsed time refactored was 0.1640625 seconds compared to the original code at 0.882813 seconds.
+	
 	b.	***2018 data run*** - the elapsed time refactored was 0.1470032 seconds compared to the original code at 0.960938 seconds 
 
 
@@ -56,9 +57,9 @@ The **advantages** of refactoring code may include:
 
 The **disadvantages** of refactoring code may include:
 
-1.	Calculations to produce certain output is often very complex and precise.  What seems like improved code may change the way or order in which a calculation computes which can result in data errors or in some cases slight changes to the data that aren’t caught in a check of only a few data points.  However, when this data is run over 1000’s of iterations or more this slight change can add up resulting in imprecise outcomes and misdirected strategy.
-2.	While the cost to run a program may improve due to reduced elapsed times, the cost for resources to make the changes may be too high and those funds may not be available.
-3.	As in cost, the time it takes to complete a refactor may be excessive and a company may not have the manpower to devote to the project.
+-	Calculations to produce certain output is often very complex and precise.  What seems like improved code may change the way or order in which a calculation computes which can result in data errors or in some cases slight changes to the data that aren’t caught in a check of only a few data points.  However, when this data is run over 1000’s of iterations or more this slight change can add up resulting in imprecise outcomes and misdirected strategy.
+-	While the cost to run a program may improve due to reduced elapsed times, the cost for resources to make the changes may be too high and those funds may not be available.
+-	As in cost, the time it takes to complete a refactor may be excessive and a company may not have the manpower to devote to the project.
 
 In summary, one must outline a detailed plan for a successful refactor and identify all pros and cons before deciding to move forward.
 	
