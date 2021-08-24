@@ -38,9 +38,10 @@ Note:  The number of stocks evaluated can be changed as mentioned by adding stoc
 5.	**Reduced Run Time:**  The newly developed arrays also allowed DAI to implement ***more streamlined code*** that produced the same output in far fewer iterations.  DAI was then able to take out the nested loop statements and this produced a dramatic decrease in iterations.  Specifically, the ***refactored code*** for 12 stocks used 3,037 iterations while the ***original code*** used 36,156 iterations to produce the same data - a dramatic decrease indeed.  2017 and 2018 have the same number of total records so the reduced number of iterations was the same from year to year.  The result of implementing the ***refactored code*** with fewer iterations is:
 
 	a.	***2017 data run*** – the elapsed time refactored was 0.1640625 seconds compared to the original code at 0.882813 seconds.
+	![VBA_Challenge_2017](https://user-images.githubusercontent.com/35401581/130657110-a0094c95-67ea-4c8d-81d7-cde7f4bcf5b6.png)
 	
-	b.	***2018 data run*** - the elapsed time refactored was 0.1470032 seconds compared to the original code at 0.960938 seconds 
-
+	b.	***2018 data run*** - the elapsed time refactored was 0.1470032 seconds compared to the original code at 0.960938 seconds.
+	![VBA_Challenge_2018](https://user-images.githubusercontent.com/35401581/130657232-53a3dcf4-a9ce-4acb-bbab-71a2ebba7f66.png)
 
 ## Summary
 DAI was successful in providing Steve an improved deliverable.  Steve can now be confident he can analyze and present performances on an array of stocks in a timely fashion to his clients.
