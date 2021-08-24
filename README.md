@@ -49,14 +49,14 @@ DAI was successful in providing Steve an improved deliverable.  Steve can now be
 DAI would like to point out; however, that one must be very careful in conducting a ***refactoring*** project.  Code often includes complex calculations or detailed presentations of data and if all factors are not taken into consideration, the refactoring can result in incorrect or misleading outcomes.  One must weigh the advantages and disadvantages to refactoring code.
 
 The **advantages** of refactoring code may include:
-	*	As in Steve’s case, refactoring can reduce the elapsed time needed to run the code.  If you are dealing with 1,000’s of records with multiple data points this time savings can add up and become significant.
-	*	Time often equates to cost and your cost of running the data may be reduced.
-	*	The code is easier to read and understand which means any programmer can come back to it and more easily make needed changes as time goes by, etc.
+	-	As in Steve’s case, refactoring can reduce the elapsed time needed to run the code.  If you are dealing with 1,000’s of records with multiple data points this time savings can add up and become significant.
+	-	Time often equates to cost and your cost of running the data may be reduced.
+	-	The code is easier to read and understand which means any programmer can come back to it and more easily make needed changes as time goes by, etc.
 
 The **disadvantages** of refactoring code may include:
-	*	Calculations to produce certain output is often very complex and precise.  What seems like improved code may change the way or order in which a calculation computes which can result in data errors or in some cases slight changes to the data that aren’t caught in a check of only a few data points.  However, when this data is run over 1000’s of iterations or more this slight change can add up resulting in imprecise outcomes and misdirected strategy.
-	*	While the cost to run a program may improve due to reduced elapsed times, the cost for resources to make the changes may be too high and those funds may not be available.
-	*	As in cost, the time it takes to complete a refactor may be excessive and a company may not have the manpower to devote to the project.
+	-	Calculations to produce certain output is often very complex and precise.  What seems like improved code may change the way or order in which a calculation computes which can result in data errors or in some cases slight changes to the data that aren’t caught in a check of only a few data points.  However, when this data is run over 1000’s of iterations or more this slight change can add up resulting in imprecise outcomes and misdirected strategy.
+	-	While the cost to run a program may improve due to reduced elapsed times, the cost for resources to make the changes may be too high and those funds may not be available.
+	-	As in cost, the time it takes to complete a refactor may be excessive and a company may not have the manpower to devote to the project.
 
 In summary, one must outline a detailed plan for a successful refactor and identify all pros and cons before deciding to move forward.
 	
