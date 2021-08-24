@@ -9,10 +9,6 @@ DAI delivered our first draft analysis to Steve and after our follow-up meeting 
 To facilitate an improved (or ***“refactored”***) deliverable, DAI accomplished the following:
 1.	**Results:**
 ![2017 and 2018 Screenshot for report](https://user-images.githubusercontent.com/35401581/130656419-7a9e1f11-9894-48f1-9c97-54cfb0378a34.png)
- 	 
-	The notes in the message boxes at bottom of the charts read:
-	-	2017 – The code ran in 0.1640625 seconds for the year 2017
-	-	2018 – The code ran in 0.1445313 seconds for the year 2018
 	
 2.	**Calculation Accuracy:**  While the coding for the analysis was refactored for efficiency the calculation results for Total Daily Volume and Return remained the same which was the goal.
 3.	**Analysis:**  Steve is now able to provide his analysis.  In the charts above 2017 results showed 11 of the 12 stocks evaluated traded with favorable returns but many took a nosedive in 2018 where only 2 of the 12 stocks had favorable returns.  The stock DQ for example had a favorable return of 199.4% in 2017 but fell to a -62.6% return in 2018.  Since the majority of stocks in this portfolio declined sharply in 2018, perhaps an overall market downturn may be at play.   
