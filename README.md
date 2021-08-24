@@ -8,6 +8,7 @@ DAI delivered our first draft analysis to Steve and after our follow-up meeting 
 ## Results
 To facilitate an improved (or ***“refactored”***) deliverable, DAI accomplished the following:
 1.	**Results:**
+
 ![2017 and 2018 Screenshot for report](https://user-images.githubusercontent.com/35401581/130656419-7a9e1f11-9894-48f1-9c97-54cfb0378a34.png)
 	
 2.	**Calculation Accuracy:**  While the coding for the analysis was refactored for efficiency the calculation results for Total Daily Volume and Return remained the same which was the goal.
