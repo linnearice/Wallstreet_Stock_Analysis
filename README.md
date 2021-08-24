@@ -1,5 +1,3 @@
-![Screenshot 2021-08-24 10 58 29](https://user-images.githubusercontent.com/35401581/130651341-2a8255fe-de79-4ca9-bbdd-90cd6103c752.png)
-![2017 and 2018 Screenshot for report](https://user-images.githubusercontent.com/35401581/130652060-5dc8e175-bf9f-4e55-b25e-e80dd955be46.png)
 # VBA of Wallstreet
 ## Overview of Project
 Our company Data Analysts, Inc. (“DAI”) has worked with Steve, a Wall Street stockbroker, to deliver a tool Steve can use to analyze a large array of stocks.  Steve needs this information to advise his clients.  Steve has provided DAI the data points needed to properly analyze a stock.  It is DAI’s mission to incorporate all measurements into the analysis and to meet Steve’s expectations of accuracy and expedience.
@@ -10,7 +8,7 @@ DAI delivered our first draft analysis to Steve and after our follow-up meeting 
 ## Results
 To facilitate an improved (or ***“refactored”***) deliverable, DAI accomplished the following:
 1.	**Results:**
- 	 
+![2017 and 2018 Screenshot for report](https://user-images.githubusercontent.com/35401581/130652060-5dc8e175-bf9f-4e55-b25e-e80dd955be46.png) 	 
 	The notes in the message boxes at bottom of the charts read:
 	-	2017 – The code ran in 0.1640625 seconds for the year 2017
 	-	2018 – The code ran in 0.1445313 seconds for the year 2018
